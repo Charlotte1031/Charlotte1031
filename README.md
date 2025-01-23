@@ -25,7 +25,7 @@ Hi, I’m Charlotte Xu, a Biostatistics MS student, clinical trial researcher, a
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently a research assistant at Department of Biostatistics at University of Michigan School of Public Health.
-- 🔭 I’m (also) currentlt a Co-Op Statistician focusing on clinical trial analysis and real-world evidence analysis at Boston Scentific.
+- 🔭 I’m (also) currentlt a Co-Op Statistician at Boston Scientific, focusing on clinical trial and real-world analysis.
 - 🎸 I’m part of a band and love drumming to both classic and modern music.
 -	🎬 I make films and handle sound mixing in media production projects.
 -	🏔️ You can find me snowboarding during the winter breaks!
