@@ -21,8 +21,6 @@
 Hi, I’m Charlotte Xu, a Biostatistics MS student, clinical trial researcher, and open-source contributor. I love tackling real-world challenges with data, but beyond that, I’m also a Sound Engineer, filmmaker, media producer, drummer, and avid snowboarder. 🎥🎶🏂
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />  
-
 
 **Talking about Personal Stuffs:**
 
@@ -31,5 +29,6 @@ Hi, I’m Charlotte Xu, a Biostatistics MS student, clinical trial researcher, a
 - 🎸 I’m part of a band and love drumming to both classic and modern music.
 -	🎬 I make films and handle sound mixing in media production projects.
 -	🏔️ You can find me snowboarding during the winter breaks!
+-	🐱 I love my Cat Chestnut and he loves me too. 
 
 
