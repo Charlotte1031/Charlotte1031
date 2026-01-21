@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I’m Charlotte Xu, a Biostatistics MS student, clinical trial researcher, and open-source contributor. I love tackling real-world challenges with data, but beyond that, I’m also a Sound Engineer, filmmaker, media producer, drummer, and avid snowboarder. 🎥🎶🏂
+Hi, I’m Charlotte Xu, a Statistician, clinical trial researcher, and open-source contributor. I love tackling real-world challenges with data, but beyond that, I’m also a Sound Engineer, filmmaker, media producer, drummer, and avid snowboarder. 🎥🎶🏂
 
 
 
